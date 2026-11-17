@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+data/
+.crawl4ai/
+.DS_Store
+.python-version
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Tooling
+.atl/
